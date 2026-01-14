@@ -10,12 +10,12 @@
         "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "p_rel_url" : "Lameck-22/azure_adventureworks_dataengineering_project/refs/heads/main/adventure/AdventureWorks_Customer.csv",
+        "p_rel_url" : "Lameck-22/azure_adventureworks_dataengineering_project/refs/heads/main/adventure/AdventureWorks_Customers.csv",
         "p_sink_folder" : "AdventureWorks_Customers",
         "p_sink_file" : "AdventureWorks_Customers.csv"
     },
     {
-        "p_rel_url" : "Lameck-22/azure_adventureworks_dataengineering_project/refs/heads/main/adventure/AdventureWorks_Subcategories.csv",
+        "p_rel_url" : "Lameck-22/azure_adventureworks_dataengineering_project/refs/heads/main/adventure/AdventureWorks_Product_Subcategories.csv",
         "p_sink_folder" : "Product_Subcategories",
         "p_sink_file" : "AdventureWorks_Product_Subcategories.csv"
     },
@@ -51,3 +51,4 @@
     }
 
 ]
+
